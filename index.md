@@ -32,5 +32,5 @@ In Summer 2018, I innterned at Amazon on the AWS Rekognition team, where I worke
 In my free time, I enjoy playing the guitar, singing, playing basketball, and cooking.
 
 ## Contact
-Email: ddhruv <at> umd <dot> edu
+Email: ddhruv@umd.edu
 
