@@ -3,7 +3,7 @@ I'm a PhD student in Physics at the University of Maryland, College Park. My pri
 
 I am a recipient of the NSF Graduate Research Fellowship, which will support my studies at UMD.
 
-You can contact me by email at ddhruv@umd.edu
+Contact: [here](mailto:ddhruv@umd.edu), ddhruv@umd.edu
 
 
 
