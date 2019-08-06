@@ -3,6 +3,8 @@ I'm a PhD student in Physics at the University of Maryland, College Park. My pri
 
 I am a recipient of the NSF Graduate Research Fellowship, which will support my studies at UMD.
 
+You can contact me by email at ddhruv@umd.edu
+
 
 
 
@@ -31,6 +33,5 @@ In Summer 2018, I innterned at Amazon on the AWS Rekognition team, where I worke
 ## Personal
 In my free time, I enjoy playing the guitar, singing, playing basketball, and cooking.
 
-## Contact
-Email: ddhruv@umd.edu
+
 
