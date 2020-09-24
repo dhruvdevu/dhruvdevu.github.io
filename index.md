@@ -1,7 +1,7 @@
 ## About
 I'm a PhD student in Physics at the University of Maryland, College Park. My primary research interests are in Quantum Computing - specifically, Quantum Algorithms and Quantum Information Theory. I'm also interested in both quantum and classical machine learning. 
 
-I am a recipient of the NSF Graduate Research Fellowship, which will support my studies at UMD.
+My studies at UMD are supported by the NSF Graduate Research Fellowship.
 
 Contact: [here](mailto:ddhruv@umd.edu), ddhruv@umd.edu
 
@@ -12,7 +12,7 @@ Contact: [here](mailto:ddhruv@umd.edu), ddhruv@umd.edu
 
 I completed my undergrad at UC Berkeley in 2019 with a B.A. in Physics and Computer Science. 
 
-While at Berkeley, I worked with Professor Birgitta Whaley towards using tensor networks for Quantum Machine Learning, and implementing our tree tensor network models on Rigetti's Quantum Computer. I also did research in experimental particle physics with the ATLAS collaboration under Professor Marjorie Shapiro, where I worked on projects involving new inner detector designs for the LHC as well as searches for Dark Matter candidate particles in Mono-Higgs decay.
+While at Berkeley, I worked with Professor Birgitta Whaley towards using tensor networks for Quantum Machine Learning, and implementing our tree tensor network models on Rigetti's Quantum Computer. I also did research in experimental particle physics with the ATLAS collaboration under Professor Marjorie Shapiro, where I worked on projects involving new inner detector designs for the LHC as well as searches for Dark Matter candidate particles.
 
 
 
@@ -28,12 +28,6 @@ I am the founder and former president of [Quantum Computing @ Berkeley](https://
 In Summer 2017, I interned at Sonos on the Partner Integrations team, working on app development across Android, iOS, and Windows.
 In Summer 2018, I interned at Amazon on the AWS Rekognition team, where I worked on developing pipelines for different face detection and recognition models.
 
-
-
-
-
-## Personal
-In my free time, I enjoy playing the guitar, singing, playing basketball, and cooking.
 
 
 
