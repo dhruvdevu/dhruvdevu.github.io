@@ -1,6 +1,8 @@
 ## About
 I'm a PhD student in Physics at the University of Maryland, College Park. My primary research interests are in Quantum Computing - specifically, Quantum Algorithms and Quantum Information Theory. I'm also interested in both quantum and classical machine learning. 
 
+I'm fortunate to be advised by Professor Alexey Gorshkov.
+
 My studies at UMD are supported by the NSF Graduate Research Fellowship.
 
 Contact: [here](mailto:ddhruv@umd.edu), ddhruv@umd.edu
