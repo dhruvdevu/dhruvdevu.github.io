@@ -14,10 +14,9 @@ I completed my undergrad at UC Berkeley in 2019 with a B.A. in Physics and Compu
 
 While at Berkeley, I worked with Professor Birgitta Whaley towards using tensor networks for Quantum Machine Learning, and implementing our tree tensor network models on Rigetti's Quantum Computer. I also did research in experimental particle physics with the ATLAS collaboration under Professor Marjorie Shapiro, where I worked on projects involving new inner detector designs for the LHC as well as searches for Dark Matter candidate particles.
 
+## Projects
 
-
-
-
+[Deep Learning for Music Genre Classification](https://dhruvdevu.github.io/GenreClassificationDL/)
 
 ## Professional Experience
 
