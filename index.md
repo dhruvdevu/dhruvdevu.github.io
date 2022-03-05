@@ -7,12 +7,19 @@ Contact: [here](mailto:ddhruv@umd.edu), ddhruv@umd.edu
 
 
 
-
 ## Background
 
 I completed my undergrad at UC Berkeley in 2019 with a B.A. in Physics and Computer Science. 
 
 While at Berkeley, I worked with Professor Birgitta Whaley towards using tensor networks for Quantum Machine Learning, and implementing our tree tensor network models on Rigetti's Quantum Computer. I also did research in experimental particle physics with the ATLAS collaboration under Professor Marjorie Shapiro, where I worked on projects involving new inner detector designs for the LHC as well as searches for Dark Matter candidate particles.
+
+## Publications
+[Google Scholar](https://scholar.google.com/citations?user=KnD_CEYAAAAJ&hl=en&oi=ao)
+
+1. Implementing a fast unbounded quantum fanout gate using power-law interactions[arxiv:2007.00662](https://arxiv.org/abs/2007.00662)
+(with Andrew Guo, Abhinav Deshpande, Su-Kuan Chu, Zachary Eldredge, Przemyslaw Bienias, Yuan Su, Andrew Childs, and Alexey Gorshkov) 
+2. Quantum routing with Teleportation (In preparation, accepted talk at QCTIP 2022)
+(with Eddie Schoute, Aniruddha Bapat, Andrew Childs, and Alexey Gorshkov)
 
 ## Projects
 
