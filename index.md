@@ -16,7 +16,7 @@ While at Berkeley, I worked with Professor Birgitta Whaley towards using tensor 
 ## Publications
 [Google Scholar](https://scholar.google.com/citations?user=KnD_CEYAAAAJ&hl=en&oi=ao)
 
-1. Implementing a fast unbounded quantum fanout gate using power-law interactions[arxiv:2007.00662](https://arxiv.org/abs/2007.00662)
+1. Implementing a fast unbounded quantum fanout gate using power-law interactions. [arxiv:2007.00662](https://arxiv.org/abs/2007.00662)
 (with Andrew Guo, Abhinav Deshpande, Su-Kuan Chu, Zachary Eldredge, Przemyslaw Bienias, Yuan Su, Andrew Childs, and Alexey Gorshkov) 
 2. Quantum routing with Teleportation (In preparation, accepted talk at QCTIP 2022)
 (with Eddie Schoute, Aniruddha Bapat, Andrew Childs, and Alexey Gorshkov)
