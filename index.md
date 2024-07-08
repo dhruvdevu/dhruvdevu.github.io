@@ -17,7 +17,6 @@ While at Berkeley, I worked with Professor Birgitta Whaley towards using tensor 
 [Google Scholar](https://scholar.google.com/citations?user=KnD_CEYAAAAJ&hl=en&oi=ao)
 
 1. Implementing a fast unbounded quantum fanout gate using power-law interactions. Guo, Andrew Y., Abhinav Deshpande, Su-Kuan Chu, Zachary Eldredge, Przemyslaw Bienias, Dhruv Devulapalli, Yuan Su, Andrew M. Childs, and Alexey V. Gorshkov. [Physical Review Research 4, no. 4 (2022): L042016.](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L042016)
-(with Andrew Guo, Abhinav Deshpande, Su-Kuan Chu, Zachary Eldredge, Przemyslaw Bienias, Yuan Su, Andrew Childs, and Alexey Gorshkov) 
 2. Quantum routing with Teleportation [Accepted talk at QCTIP 2022](https://www.youtube.com/watch?v=4ociWeAMD1M) Devulapalli, Dhruv, Eddie Schoute, Aniruddha Bapat, Andrew M. Childs, and Alexey V. Gorshkov. [arxiv:2204.04185 (2022)](https://arxiv.org/abs/2204.04185)
 (with Eddie Schoute, Aniruddha Bapat, Andrew Childs, and Alexey Gorshkov)
 3. Toward a 2D local implementation of quantum LDPC codes. Noah Berthusen, Dhruv Devulapalli, Eddie Schoute, Andrew M. Childs, Michael J. Gullans, Alexey V. Gorshkov, and Daniel Gottesman. [arXiv:2404.17676 (2024)](https://arxiv.org/abs/2404.17676).
