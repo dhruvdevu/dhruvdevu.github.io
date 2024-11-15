@@ -16,11 +16,12 @@ While at Berkeley, I worked with Professor Birgitta Whaley towards using tensor 
 ## Publications
 [Google Scholar](https://scholar.google.com/citations?user=KnD_CEYAAAAJ&hl=en&oi=ao)
 
-1. Implementing a fast unbounded quantum fanout gate using power-law interactions. Guo, Andrew Y., Abhinav Deshpande, Su-Kuan Chu, Zachary Eldredge, Przemyslaw Bienias, Dhruv Devulapalli, Yuan Su, Andrew M. Childs, and Alexey V. Gorshkov. [Physical Review Research 4, no. 4 (2022): L042016.](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L042016)
-2. Quantum routing with Teleportation [Accepted talk at QCTIP 2022](https://www.youtube.com/watch?v=4ociWeAMD1M) Devulapalli, Dhruv, Eddie Schoute, Aniruddha Bapat, Andrew M. Childs, and Alexey V. Gorshkov. [arxiv:2204.04185 (2022)](https://arxiv.org/abs/2204.04185)
+1. Implementing a fast unbounded quantum fanout gate using power-law interactions. Guo, Andrew Y., Abhinav Deshpande, Su-Kuan Chu, Zachary Eldredge, Przemyslaw Bienias, Dhruv Devulapalli, Yuan Su, Andrew M. Childs, and Alexey V. Gorshkov. TQC 2021, [Physical Review Research 4, no. 4 (2022): L042016.](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L042016), [arxiv:2007.00662](https://arxiv.org/abs/2007.00662)
+2. Quantum routing with Teleportation. Devulapalli, Dhruv, Eddie Schoute, Aniruddha Bapat, Andrew M. Childs, and Alexey V. Gorshkov. [Physical Review Research 6 (3), 033313](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033313), [QCTIP 2022](https://www.youtube.com/watch?v=4ociWeAMD1M), [arxiv:2204.04185 (2022)](https://arxiv.org/abs/2204.04185)
 (with Eddie Schoute, Aniruddha Bapat, Andrew Childs, and Alexey Gorshkov)
-3. Toward a 2D local implementation of quantum LDPC codes. Noah Berthusen, Dhruv Devulapalli, Eddie Schoute, Andrew M. Childs, Michael J. Gullans, Alexey V. Gorshkov, and Daniel Gottesman. [arXiv:2404.17676 (2024)](https://arxiv.org/abs/2404.17676).
-4. Efficiently verifiable quantum advantage on near-term analog quantum simulators. Zhenning Liu, Dhruv Devulapalli, Dominik Hangleiter, Yi-Kai Liu, Alicia J. Kollár, Alexey V. Gorshkov, and Andrew M. Childs. [arXiv:2403.08195 (2024)](https://arxiv.org/abs/2404.17676).
+3. Toward a 2D local implementation of quantum LDPC codes. Noah Berthusen, Dhruv Devulapalli, Eddie Schoute, Andrew M. Childs, Michael J. Gullans, Alexey V. Gorshkov, and Daniel Gottesman. [arXiv:2404.17676 (2024)](https://arxiv.org/abs/2404.17676), TQC 2024. To be published in PRX Quantum.
+4. Efficiently verifiable quantum advantage on near-term analog quantum simulators. Zhenning Liu, Dhruv Devulapalli, Dominik Hangleiter, Yi-Kai Liu, Alicia J. Kollár, Alexey V. Gorshkov, and Andrew M. Childs. [arXiv:2403.08195 (2024)](https://arxiv.org/abs/2404.17676), QSim 2024. To be published in PRX Quantum.
+5. Optimal Routing Protocols for Reconfigurable Atom Arrays. Nathan Constantinides, Ali Fahimniya, Dhruv Devulapalli, Dolev Bluvstein, Michael J Gullans, JV Porto, Andrew M Childs, Alexey V Gorshkov. [arxiv:2411.05061 (2024)](https://arxiv.org/abs/2411.05061)
 
 ## Projects
 
@@ -28,7 +29,7 @@ While at Berkeley, I worked with Professor Birgitta Whaley towards using tensor 
 
 ## Professional Experience
 ### Quantum Computing
-IBM Research (Summer 2024) - Quantum Research Intern. At IBM, I am working on quantum algorithms and circuit synthesis.
+IBM Research (Summer 2024) - Quantum Research Intern. At IBM, I worked on fermionic encodings and fault-tolerant compilation.
 
 Zapata Computing (Summer 2022) - Quantum AI Research Intern. At Zapata I worked on a project related to mitigation of Barren Plateaus in Quantum Neural Networks.
 
