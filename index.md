@@ -1,7 +1,7 @@
 ## About
-I'm a PhD student in Physics at the University of Maryland, College Park. My research interests are mainly in quantum computation, including architecture-aware unitary synthesis, quantum algorithms, and complexity theory. I'm also interested in both quantum and classical machine learning. I'm fortunate to be advised by Professor [Alexey Gorshkov](https://groups.jqi.umd.edu/gorshkov/) and Professor [Andrew Childs](https://www.cs.umd.edu/~amchilds/).
+I'm a Senior Research Scientist at IonQ working on quantum computing. 
 
-My studies at UMD have been supported by the NSF Graduate Research Fellowship and an LPS Quantum Graduate Fellowship.
+My work is guided by two questions: What are quantum computers good for, and how do we build them? I’ve worked across quantum compilation, algorithms, and complexity theory, connecting theory to practical architectures.
 
 Contact: [here](mailto:ddhruv@umd.edu), ddhruv@umd.edu
 
@@ -9,14 +9,17 @@ Contact: [here](mailto:ddhruv@umd.edu), ddhruv@umd.edu
 
 ## Background
 
+I earned my Ph.D. in Physics from the University of Maryland, where I was supported by the NSF Graduate Research Fellowship and an LPS Quantum Graduate Fellowship, and I was fortunate to be advised by Professor [Alexey Gorshkov](https://groups.jqi.umd.edu/gorshkov/) and Professor [Andrew Childs](https://www.cs.umd.edu/~amchilds/).
+
 I completed my undergrad at UC Berkeley in 2019 with a B.A. in Physics and Computer Science. 
 
-While at Berkeley, I worked with Professor Birgitta Whaley towards using tensor networks for Quantum Machine Learning, and implementing our tree tensor network models on Rigetti's Quantum Computer. I also did research in experimental particle physics with the ATLAS collaboration under Professor Marjorie Shapiro, where I worked on projects involving new inner detector designs for the LHC as well as searches for Dark Matter candidate particles.
+While at Berkeley, I did research with Professor Birgitta Whaley in quantum computing. I also did research in experimental particle physics with the ATLAS collaboration under Professor Marjorie Shapiro, where I worked on projects involving new inner detector designs for the LHC as well as searches for Dark Matter candidate particles.
 
 ## Publications
 [Google Scholar](https://scholar.google.com/citations?user=KnD_CEYAAAAJ&hl=en&oi=ao)
 
 1. The complexity of thermalization in finite quantum systems. Dhruv Devulapalli, T. C. Mooney, and James D. Watson. [arXiv:2507.00405](https://arxiv.org/abs/2507.00405).
+
 2. Quantum routing and entanglement dynamics through bottlenecks. Dhruv Devulapalli*, Chao Yin*, Andrew Y. Guo, Eddie Schoute, Andrew M. Childs, Alexey V. Gorshkov, and Andrew Lucas. [arXiv:2505.16948](https://arxiv.org/abs/2505.16948). QCTIP 2025. Accepted TQC 2025.
 
 3. Optimal Routing Protocols for Reconfigurable Atom Arrays. Nathan Constantinides, Ali Fahimniya, Dhruv Devulapalli, Dolev Bluvstein, Michael J Gullans, JV Porto, Andrew M Childs, Alexey V Gorshkov. [arxiv:2411.05061](https://arxiv.org/abs/2411.05061)
