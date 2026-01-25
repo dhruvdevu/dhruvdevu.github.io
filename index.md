@@ -1,7 +1,11 @@
 ## About
 I'm a Senior Research Scientist at IonQ working on quantum computing. 
 
-My work is guided by two questions: What are quantum computers good for, and how do we build them? I’ve worked across quantum compilation, algorithms, and complexity theory, connecting theory to practical architectures.
+My research is guided by two questions: 
+ 1. What are quantum computers good for? 
+ 2. How do we build a quantum computer?
+    
+My work spans quantum compilation, quantum algorithms, and complexity theory, with a focus on connecting theory to practical architectures and implementations.
 
 Contact: [here](mailto:ddhruv@umd.edu), ddhruv@umd.edu
 
