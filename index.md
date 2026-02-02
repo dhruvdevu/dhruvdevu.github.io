@@ -1,6 +1,3 @@
----
----
-
 ## About
 I'm a Senior Research Scientist at IonQ working on quantum computing. 
 
