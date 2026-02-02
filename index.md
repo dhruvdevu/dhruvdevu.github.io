@@ -29,6 +29,8 @@ While at Berkeley, I did research with Professor Birgitta Whaley in quantum comp
 
 
 
+
+
 ## Projects
 
 [Deep Learning for Music Genre Classification](https://dhruvdevu.github.io/GenreClassificationDL/)
