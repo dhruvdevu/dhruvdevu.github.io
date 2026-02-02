@@ -22,22 +22,9 @@ While at Berkeley, I did research with Professor Birgitta Whaley in quantum comp
 ## Publications
 [Google Scholar](https://scholar.google.com/citations?user=KnD_CEYAAAAJ&hl=en&oi=ao)
 
-1. The complexity of thermalization in finite quantum systems. Dhruv Devulapalli, T. C. Mooney, and James D. Watson. [arXiv:2507.00405](https://arxiv.org/abs/2507.00405).
+[arXiv Preprints](https://arxiv.org/search/quant-ph?searchtype=author&query=Devulapalli,+D)
 
-2. Quantum routing and entanglement dynamics through bottlenecks. Dhruv Devulapalli*, Chao Yin*, Andrew Y. Guo, Eddie Schoute, Andrew M. Childs, Alexey V. Gorshkov, and Andrew Lucas. [arXiv:2505.16948](https://arxiv.org/abs/2505.16948). QCTIP 2025. Accepted TQC 2025.
-
-3. Optimal Routing Protocols for Reconfigurable Atom Arrays. Nathan Constantinides, Ali Fahimniya, Dhruv Devulapalli, Dolev Bluvstein, Michael J Gullans, JV Porto, Andrew M Childs, Alexey V Gorshkov. [arxiv:2411.05061](https://arxiv.org/abs/2411.05061)
-
-4. Efficiently verifiable quantum advantage on near-term analog quantum simulators. Zhenning Liu, Dhruv Devulapalli, Dominik Hangleiter, Yi-Kai Liu, Alicia J. Kollár, Alexey V. Gorshkov, and Andrew M. Childs. [arXiv:2403.08195](https://arxiv.org/abs/2404.17676), QSim 2024. [PRX Quantum 6, 010341](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010341).
-
-5. Toward a 2D local implementation of quantum LDPC codes. Noah Berthusen, Dhruv Devulapalli, Eddie Schoute, Andrew M. Childs, Michael J. Gullans, Alexey V. Gorshkov, and Daniel Gottesman. [arXiv:2404.17676 (2024)](https://arxiv.org/abs/2404.17676), TQC 2024. [PRX Quantum 6, 010306](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010306).
- 
-6. Implementing a fast unbounded quantum fanout gate using power-law interactions. Andrew Y. Guo, Abhinav Deshpande, Su-Kuan Chu, Zachary Eldredge, Przemyslaw Bienias, Dhruv Devulapalli, Yuan Su, Andrew M. Childs, and Alexey V. Gorshkov. TQC 2021, [Physical Review Research 4, no. 4 (2022): L042016.](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L042016), [arxiv:2007.00662](https://arxiv.org/abs/2007.00662)
-
-7. Quantum routing with Teleportation. Dhruv Devulapalli, Eddie Schoute, Aniruddha Bapat, Andrew M. Childs, and Alexey V. Gorshkov. [Physical Review Research 6 (3), 033313](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033313), [QCTIP 2022](https://www.youtube.com/watch?v=4ociWeAMD1M), [arxiv:2204.04185 (2022)](https://arxiv.org/abs/2204.04185)
-
-
-
+{% include publications.html %}
 
 
 
